@@ -8,19 +8,19 @@ An independent, interactive event companion for **Github 101: Continuous Dev and
 
 You can also open `index.html` directly in a modern browser. No build step, dependencies, account connection or API keys are needed.
 
-Six chapters cover safe preparation, a testable delivery contract, checks and PR review, versioned releases and operator approval, a proposed 45-minute observation plan, and take-home notes.
+A warm, illustrated book with a real cover, turning pages and six short chapters. Follow one imagined client update: make a small change, keep what works, catch a missing detail, review a named copy, decide when it can be used and take one idea back to your work. The main story uses plain language; GitHub terms and source links are optional.
 
-The gate rehearsal is a predefined local teaching model. It does **not** execute code, run CI, scan secrets, merge a real PR, create a real release, grant operator permission, or connect to Mattermost. Changing the example or rerunning its checks clears downstream model approval.
+The choices are for practice only. They do not change a real project, scan private information, publish work, grant permission or connect to Mattermost. Changing the example or checking it again clears the earlier practice approvals. Page turns respect reduced-motion preferences and can be switched on or off.
 
 ## Notes and privacy
 
-Notes and preparation ticks use browser-local storage when available. Notes can be downloaded as plain-text Markdown; the book does not submit them. Do not enter secrets or client data. Public GitHub Pages hosting has its own provider logging and privacy practices.
+Notes and preparation ticks use browser-local storage when available. Notes from the earlier edition are preserved on the same website and browser. You can download your notes as plain-text Markdown; the book does not send them to anyone. Do not enter secrets or client data. Hosting providers may keep their usual website access logs.
 
 The book includes a downloadable calendar reminder and a print view with all six chapters. No RSVP or event join link is included.
 
 ## Sources and scope
 
-Event details come from the description supplied by Jonathan. The checklist, sample workspace, questions and observation plan are independent editorial suggestions, not an official agenda or a claim about the organizer's implementation. Current official GitHub documentation is linked within the relevant chapters.
+Event details come from the description supplied by Jonathan. The imagined client update and questions are independent editorial suggestions, not an official agenda or a claim about the organizer's implementation. Official GitHub documentation is linked in About this book.
 
 This repository contains only the public book, this README and `.nojekyll`. Private preparation notes, QA files, client workspaces and credentials are excluded.
 
