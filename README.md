@@ -4,7 +4,9 @@ An independent, interactive event companion for **Github 101: Continuous Dev and
 
 ## Read the book
 
-Open `index.html` directly in a modern browser, or use the repository's GitHub Pages site after publication. No build step, dependencies, account connection or API keys are needed.
+[Read the live book](https://github-101-project-book.vercel.app/).
+
+You can also open `index.html` directly in a modern browser. No build step, dependencies, account connection or API keys are needed.
 
 Six chapters cover safe preparation, a testable delivery contract, checks and PR review, versioned releases and operator approval, a proposed 45-minute observation plan, and take-home notes.
 
@@ -24,4 +26,6 @@ This repository contains only the public book, this README and `.nojekyll`. Priv
 
 ## Hosting
 
-GitHub Pages supports this static book from a public repository on GitHub Free using a `github.io` address. No custom domain, application server, paid service or workflow integration is required. Pages is configured to publish from the root of `main`.
+The live book is an isolated static project on the owner's existing Vercel Hobby plan, using the free `vercel.app` address above. No custom domain, application server, paid feature or workflow integration was enabled.
+
+GitHub Pages was also configured from the root of `main`, but its URL inherits an existing account-level custom-domain redirect and is not the recommended reading link. No existing domain settings were changed. The repository remains the public editable source.
